@@ -1,0 +1,18 @@
+.container {
+  height: 200px;
+  width: 200px;
+  border: 10px solid grey;
+  margin: 0 auto;
+}
+
+.normal {
+  background-color: grey;
+}
+
+.alert {
+  background-color: red;
+}
+
+.success {
+  background-color: green;
+}
